@@ -14,7 +14,7 @@ using namespace std;
 */
 int linearSearch(auto data, auto key);//prototype
 {
-fire
+
 }
 int main()
 {
