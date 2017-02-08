@@ -13,8 +13,9 @@ using namespace std;
 \returns location of key if found or -1 if not found
 */
 int linearSearch(auto data, auto key);//prototype
-
-
+{
+  
+}
 int main()
 {
   vector<string> inputs;
